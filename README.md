@@ -23,7 +23,7 @@
 
 <p align="left">
  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" alt="bash" width="40" height="40"/> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-shell-script.jpg" alt="bash" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
