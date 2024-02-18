@@ -51,7 +51,7 @@
  </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.541875930.4233/st,small,507x507-pad,600x600,f8f8f8.u6.jpg" alt="php" width="40" height="40"/> 
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/89/736/png-transparent-php-logo-modern-php-new-features-and-good-practices-computer-programming-scripting-language-computer-software-source-code-debugging-html-thumbnail.png" alt="php" width="40" height="40"/> 
  </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  </a>
