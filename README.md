@@ -23,7 +23,7 @@
 
 <p align="left">
  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/980/65/124/shell-logo-bash-printf-format-string-bourne-shell-command-shell-script-linux-signage-png-clipart.jpg" alt="bash" width="40" height="40"/> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/980/65/124/shell-logo-bash-printf-format-string-bourne-shell-command-shell-script-linux-signage-png-clipart.jpg" alt="bash" width="40" height="40" style="border-radius:2px" /> 
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
