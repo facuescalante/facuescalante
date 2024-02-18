@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ismael Catalá</h1>
-<h3 align="center">A passionate backend developer & senior devops engineer from Spain</h3>
+<h1 align="center">Hi 👋, I'm Facundo Escalante</h1>
+<h3 align="center">A passionate full-stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elrincondeisma&label=Profile%20views&color=0e75b6&style=flat" alt="elrincondeisma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elrincondeisma" alt="elrincondeisma" /></a> </p>
 
-- 🔭 I’m currently working on **psicocrm**
+- 🔭Actualmente estoy trabajando en **Proyectos con Laravel**
 
-- 🌱 I’m currently learning **go, python and rust**
+- 🌱 Actualmente estoy aprendiendo **Python**
 
-- 👯 I’m looking to collaborate on **psicocrm**
+- 🤝 Busco trabajo como **full-stack**
 
-- 🤝 I’m looking for help with **psicocrm**
-
-- 💬 Ask me about **laravel, php, arduino...**
-
-- 📫 How to reach me **ismael@elrincondeisma.com**
-
+- 📫 Cómo contactarme **facuescalante@gmail.com**
+​
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elrincondeisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elrincondeisma" height="30" width="40" /></a>
