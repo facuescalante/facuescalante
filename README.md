@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Facundo Escalante</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elrincondeisma&label=Profile%20views&color=0e75b6&style=flat" alt="elrincondeisma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuescalante&label=Profile%20views&color=0e75b6&style=flat" alt="facuescalante" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elrincondeisma" alt="elrincondeisma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuescalante" alt="facuescalante" /></a> </p>
 
 - 🔭Actualmente estoy trabajando en **Proyectos con Laravel**
 
@@ -15,10 +15,8 @@
 ​
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elrincondeisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elrincondeisma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismael-catalá-gil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael-catalá-gil" height="30" width="40" /></a>
-<a href="https://instagram.com/elrincondeismaoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elrincondeismaoficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/el rincon de isma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="el rincon de isma" height="30" width="40" /></a>
+<a href="https://twitter.com/facuescalante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuescalante" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-facundo-escalante-278611276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo escalante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
