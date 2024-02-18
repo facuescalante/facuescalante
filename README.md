@@ -25,7 +25,7 @@
  
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="bash" width="40" height="40" style="border-radius:5px" /> 
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="40"/> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="30"/> 
 </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  </a> 
@@ -51,7 +51,7 @@
  </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/89/736/png-transparent-php-logo-modern-php-new-features-and-good-practices-computer-programming-scripting-language-computer-software-source-code-debugging-html-thumbnail.png" alt="php" width="40" height="40"/> 
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://d1zviajkun9gxg.cloudfront.net/user/prod/2020/01/03/fastpages-0622317d-e016-4e7a-b25e-8eef9db1610a.png" alt="php" width="40" height="40"/> 
  </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  </a>
