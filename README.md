@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python**
 
-- 🤝 Busco trabajo como **full-stack**
+- 💼 Busco trabajo como **full-stack**
 
 - 📫 Cómo contactarme **facuescalante@gmail.com**
 ​
@@ -25,7 +25,7 @@
  
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="bash" width="40" height="40" style="border-radius:5px" /> 
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="30"/> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="33"/> 
 </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  </a> 
