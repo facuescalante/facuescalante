@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuescalante" alt="facuescalante" /></a> </p>
 # 💫 About Me:
+
 🔭Actualmente estoy trabajando en Proyectos con Laravel<br><br>🌱 Actualmente estoy aprendiendo Python<br><br>💼 Busco trabajo como full-stack<br><br>📫 Cómo contactarme facuescalante@gmail.com
 
 
@@ -16,9 +17,6 @@
 # 📊 GitHub Stats:
 
 ---
-
-<br>
-
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facuescalante&show_icons=true&locale=en&layout=compact" alt="facuescalante" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=facuescalante&show_icons=true&locale=en" alt="facuescalante" /></p>
