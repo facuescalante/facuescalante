@@ -8,7 +8,7 @@
 
 <br>
 <br>
-🔭Actualmente estoy trabajando en Proyectos con Laravel<br><br>🌱 Actualmente estoy aprendiendo Python<br><br>💼 Busco trabajo como full-stack<br><br>📫 Cómo contactarme facuescalante@gmail.com
+🔭Actualmente estoy trabajando en Proyectos con Laravel<br><br>🌱 Actualmente estoy aprendiendo Python<br><br>🌱 Actualmente estoy aprendiendo C#<br><br>💼 Busco trabajo como full-stack<br><br>📫 Cómo contactarme facuescalante@gmail.com
 
 
 ## 🌐 Socials:
