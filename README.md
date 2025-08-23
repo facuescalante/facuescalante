@@ -20,7 +20,6 @@
 - [📈 Estadísticas de GitHub](#-estadísticas-de-github)
 - [🌐 Socials](#-socials)
 
-
 ---
 
 ## 💫 Sobre Mí
@@ -96,6 +95,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-facundo-escalante-278611276/)
 
 ---
-
-
 
