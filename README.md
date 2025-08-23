@@ -14,11 +14,12 @@
 ---
 
 ## 📚 Tabla de Contenidos
-- [💫 Sobre Mí](#-sobre-mí)
+- [💫 Sobre Mí](#sobre-mí)
 - [🛠️ Tecnologías que estoy usando](#tecnologías-que-estoy-usando)
-- [💻 Tech Stack](#-tech-stack)
-- [📈 Estadísticas de GitHub](#-estadísticas-de-github)
-- [🌐 Socials](#-socials)
+- [💻 Tech Stack](#tech-stack)
+- [📈 Estadísticas de GitHub](#estadísticas-de-github)
+- [🌐 Socials](#socials)
+
 
 ---
 
