@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?facuescalante=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
-  </a>
+  ## 🏆 GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=facuescalante&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 
