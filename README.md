@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=facuescalante&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=facuescalante" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
